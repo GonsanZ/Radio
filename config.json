@@ -1,0 +1,19 @@
+{
+  "token": "TU_TOKEN",
+  "clientId": "TU_ID_DEL_BOT",
+  "guildId": "TU_GUILD_ID",
+  "stations": {
+    "musica": {
+      "name": "🎵 Música",
+      "url": "tcp://127.0.0.1:4953"
+    },
+    "noticias": {
+      "name": "📰 Noticias",
+      "url": "tcp://127.0.0.1:4954"
+    },
+    "chill": {
+      "name": "🌙 Chill",
+      "url": "tcp://127.0.0.1:4955"
+    }
+  }
+}
